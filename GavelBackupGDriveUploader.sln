@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GavelBackupGDriveUploader", "GavelBackupGDriveUploader\GavelBackupGDriveUploader.csproj", "{437E51E8-454B-4934-9975-25D25B99154A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGavelBackupGDriveUploaderConsole", "TestGavelBackupGDriveUploaderConsole\TestGavelBackupGDriveUploaderConsole.csproj", "{34A5B73A-5291-4EDD-86F2-B4C70C66776B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA438CCC-55BC-454C-A866-991FE045AB99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EB5DAA58-DF0C-4A26-84A9-BBCB34C356D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GavelBackupGDrive.Ui", "GavelBackupGDrive.Ui\GavelBackupGDrive.Ui.csproj", "{92FC69AF-3067-429B-8126-8A827C279D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GavelBackupGDriveUploader.Test", "GavelBackupGDriveUploader.Test\GavelBackupGDriveUploader.Test.csproj", "{36E6A5AF-8810-4ECC-A486-2D6366C97E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437E51E8-454B-4934-9975-25D25B99154A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437E51E8-454B-4934-9975-25D25B99154A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437E51E8-454B-4934-9975-25D25B99154A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437E51E8-454B-4934-9975-25D25B99154A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A5B73A-5291-4EDD-86F2-B4C70C66776B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A5B73A-5291-4EDD-86F2-B4C70C66776B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A5B73A-5291-4EDD-86F2-B4C70C66776B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A5B73A-5291-4EDD-86F2-B4C70C66776B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5DAA58-DF0C-4A26-84A9-BBCB34C356D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5DAA58-DF0C-4A26-84A9-BBCB34C356D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5DAA58-DF0C-4A26-84A9-BBCB34C356D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5DAA58-DF0C-4A26-84A9-BBCB34C356D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FC69AF-3067-429B-8126-8A827C279D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FC69AF-3067-429B-8126-8A827C279D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FC69AF-3067-429B-8126-8A827C279D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FC69AF-3067-429B-8126-8A827C279D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E6A5AF-8810-4ECC-A486-2D6366C97E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E6A5AF-8810-4ECC-A486-2D6366C97E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E6A5AF-8810-4ECC-A486-2D6366C97E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E6A5AF-8810-4ECC-A486-2D6366C97E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9F4D59-00C7-480E-9285-AACA712CC6B5}
+	EndGlobalSection
+EndGlobal
